@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi there! I'm Reena Madhuri
 
-<!--
-**LukkaReenaMadhuri/LukkaReenaMadhuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Passionate ECE student | 💡 IoT Enthusiast | 🚀 Fast Learner
 
-Here are some ideas to get you started:
+🔧 Skilled in **Arduino** and **ESP32 programming**, with hands-on experience in:
+- Smart Entrance Systems
+- Sensor-based Automation Projects
+- -Water quality monitoring system Project 
+- IoT Cloud Integration (Blynk)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tech Stack:
+`C` `Python` `Arduino IDE` `ESP32` `Blynk` `IoT Sensors`
+
+📌 Projects:
+- **Smart Entrance System** using ESP32 and PIR sensor
+- **Water Quality Monitoring** using Arduino
+- **Real-Time Gas Detection** with cloud alerts
+
+📫 Let's connect!  
+[LinkedIn](https://www.linkedin.com/in/lukka-reena-madhuri-14b653320?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
+[Email](mailto: reenamadhuri98@gmail.com)
+
+---
+
+🌱 *Currently learning Embedded Systems, AI in IoT, and C, Python ,Embedded C Programming.*
